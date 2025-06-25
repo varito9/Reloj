@@ -5,3 +5,4 @@ node_modules/
 .sass-cache/
 vendor/
 db_data/
+.gitignore
