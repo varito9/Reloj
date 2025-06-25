@@ -1,2 +1,2 @@
 # Reloj
-pàgina reloj con encabezado hecho con Bootstrap y compilador Sass Con conexión bd MySQL y MongoDB
+Este proyecto consta sobre una página web dedidacada a los relojes, accesorios, reparaciones con sistema de login.
