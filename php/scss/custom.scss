@@ -1,0 +1,104 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+
+/*HEADER*/
+
+a{
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+
+}
+
+h1 , h2 , h3 , h4, h5{
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+  .poppins{
+  font-family: "Poppins", sans-serif;
+    font-weight: 500;
+  }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+main {
+  flex: 1;
+}
+
+
+body , p , span , small{
+  font-family :"Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.oro {
+ color: #b7a98e;
+}
+
+.bg-oro-300 {
+  background-color: #b7a98e;
+}
+
+.bg-oro-100 {
+  background-color:#f6e0b9 ;
+}
+
+.bg-claro {
+  background-color: #f6f6f6;
+}
+
+.btn-oro-100 {
+  @extend .btn; // Usa todos los estilos de botón base de Bootstrap
+  background-color: #f6e0b9;
+  border-color: #f6e0b9;
+  color: #fff;
+
+  &:hover {
+    background-color: darken(#f6e0b9, 10%);
+    border-color: darken(#f6e0b9, 12%);
+    color: #fff;
+  }
+
+  &:focus, &:active {
+    box-shadow: 0 0 0 0.25rem rgba(183, 169, 142, 0.5);
+  }
+}
+// Cambiar color de selección de recuadros Bootstrap
+.form-control:focus {
+  border-color: #f6e0b9;
+  box-shadow: 0 0 0 0.2rem rgba(246, 224, 185, 0.25);
+}
+
+
+
+.card-body.bg-oro-100 {
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken(#f6e0b9, 5%);
+  }
+}
+
+.btn-outline-dark {
+  border-color: #b7a98e;
+  color: #b7a98e;
+
+  &:hover {
+    background-color: #b7a98e;
+    color: white;
+  }
+}
+
+.ancho {
+  width: 100%;
+}
