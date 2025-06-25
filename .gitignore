@@ -1,7 +1,0 @@
-node_modules/
-
-*.map
-
-.sass-cache/
-vendor/
-db_data/
