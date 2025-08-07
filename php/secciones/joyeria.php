@@ -10,7 +10,7 @@ include '../utils/header.php';
   <div class="row gy-4">
         <!-- Imagen 0 -->
     <div class="col-md-6 d-flex">
-      <div class="card flex-fill border-0 bg-oro-100 shadow-sm p-3">
+      <div class="card flex-fill border-0 bg-light shadow-sm p-3">
         <div class="row g-3 align-items-center">
           <div class="col-3 text-center">
           <img src="https://i.etsystatic.com/8626284/r/il/ee2e0a/1455368243/il_570xN.1455368243_f2os.jpg" alt="Anillo de compromiso" class="img-fluid rounded shadow-sm">
@@ -29,7 +29,7 @@ include '../utils/header.php';
 
         <!-- Imagen 1 -->
     <div class="col-md-6 d-flex">
-      <div class="card flex-fill border-0 bg-oro-100 shadow-sm p-3">
+      <div class="card flex-fill border-0 bg-light shadow-sm p-3">
         <div class="row g-3 align-items-center">
           <div class="col-3 text-center">
             <img src="https://img.joomcdn.net/a4b4b85536d118c867e288171bf7aba50defc019_original.jpeg" alt="Anillo de compromiso" class="img-fluid rounded shadow-sm">
@@ -47,7 +47,7 @@ include '../utils/header.php';
 
         <!-- Imagen 2 -->
     <div class="col-md-6 d-flex">
-      <div class="card flex-fill border-0 bg-oro-100 shadow-sm p-3">
+      <div class="card flex-fill border-0 bg-light shadow-sm p-3">
         <div class="row g-3 align-items-center">
           <div class="col-3 text-center">
 
@@ -69,7 +69,7 @@ include '../utils/header.php';
 
         <!-- Imagen 3 -->
     <div class="col-md-6 d-flex">
-      <div class="card flex-fill border-0 bg-oro-100 shadow-sm p-3">
+      <div class="card flex-fill border-0 bg-light shadow-sm p-3">
         <div class="row g-3 align-items-center">
           <div class="col-3 text-center">
             <i class="bi bi-bezier2 fs-1 text-dark"></i>
@@ -79,7 +79,7 @@ include '../utils/header.php';
         <!-- Texto 3 -->
 
           <div class="col-9">
-            <h5 class="card-title mb-1">Collares con Historia</h5>
+            <h5 class="card-title mb-1">Collares Zafiro</h5>
             <p class="card-text small">Inspirados en épocas clásicas. Cada collar cuenta una historia, cada gema una emoción.</p>
           </div>
         </div>

@@ -36,9 +36,7 @@ session_start();
               'noticias.php' => 'NOTICIAS',
               'relojes.php' => 'RELOJES',
               'joyeria.php' => 'JOYERÍA',
-              'accesorios.php' => 'ACCESORIOS',
               'servicio.php' => 'SERVICIO',
-              'visitenos.php' => 'VISÍTENOS',
             ];
             foreach ($menuItems as $file => $name): ?>
               <a   href="../secciones/<?= $file ?>"
