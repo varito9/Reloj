@@ -4,5 +4,8 @@
   </div>
 </footer>
 <script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/menu.js"></script>
+
+
 </body>
 </html>

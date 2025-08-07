@@ -12030,6 +12030,28 @@ body, p, span, small, .small {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+/*ANIMACIÓN MENÚ*/
+.menu-link {
+  position: relative;
+  z-index: 1;
+}
+
+.navbar-nav {
+  position: relative;
+}
+
+#menu-underline {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  width: 0;
+  background-color: black;
+  transition: all 0.3s ease;
+  z-index: 0;
+}
+
+/*COLOR CARDS BOOTSTRAP*/
 .oro {
   color: #b7a98e;
 }
