@@ -127,7 +127,7 @@
 <hr>
 
 
-## Contact me 🌻
+## Contáctame 
 
 <br>
 <div align="center">
@@ -153,6 +153,3 @@
 
 
 -----
-Credits: [Sophie Nguyen](https://github.com/SophieNguyen113)
-
-Last Edited on: 10/07/2023
