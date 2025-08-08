@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Página!+Web+Reloj+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Página!+Web+sobre+relojes+ZAFIRO+" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 
 <hr>
 
-## 🚀💻 Technologies & Herramientas Utilizadas
+## 🚀💻 Tecnologias & Herramientas Utilizadas
 
 
 
