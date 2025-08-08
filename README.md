@@ -5,7 +5,7 @@
   </a>
 </p>
 
-💻 Este proyecto se basa en una página Web sencilla sobre un ejemplo de una tienda online/física ficticia que podemos en el que podemos acceder desde ordenadores y dispositivos móviles 
+💻 Este proyecto se basa en una página Web sencilla sobre un ejemplo de una tienda online/física ficticia que podemos en el que podemos acceder desde ordenadores y dispositivos móviles que esta conectada a una base de datos mySQL en la que se guardan los usuarios donde dispone de verificación de contraseña , también hemos aplicado estilos de Bootstrap (CSS) diseños con JavasScript y HTML . 
 
 <hr>
 
